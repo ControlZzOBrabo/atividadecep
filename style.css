@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+    color: wheat;
+}
+
+button{
+    background-color: black;
+    color:white;
+}
+
+.res1{
+    background-color: black;
+    border: solid white 2px;
+    border-radius: 10px;
+    width: 500px;
+}

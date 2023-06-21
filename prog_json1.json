@@ -1,0 +1,10 @@
+{
+    "nome":"Palio",
+    "motor":"1.6",
+    "cor":"Branco",
+    "opcionais":{
+        "roda":"Roda Liga Leve",
+        "banco":"Couro",
+        "tracao":"4x4"
+    }
+}
